@@ -1,9 +1,4 @@
--- Tạo database
-CREATE DATABASE IF NOT EXISTS mobile_store
-  CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
 
-USE mobile_store;
 
 -- USERS
 CREATE TABLE users (

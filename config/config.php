@@ -1,9 +1,9 @@
 <?php
 // config/config.php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'mobile_store'); // hoặc DB bạn đang dùng
-define('DB_USER', 'root');
-define('DB_PASS', ''); // WAMP để rỗng
+define('DB_NAME', 'viakingv_dunggithub'); // hoặc DB bạn đang dùng
+define('DB_USER', 'viakingv_dunggithub');
+define('DB_PASS', 'viakingv_dunggithub'); // WAMP để rỗng
 
 // BASE_URL: KHÔNG ĐƯỢC COMMENT!
 // Sửa theo đúng tên thư mục project của bạn.
